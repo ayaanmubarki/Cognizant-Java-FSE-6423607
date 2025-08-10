@@ -1,0 +1,14 @@
+/* Container box styling */
+.box {
+  width: 300px;
+  display: inline-block;
+  margin: 10px; /* shorthand for top, bottom, left, right */
+  padding: 10px 20px; /* top-bottom = 10px, left-right = 20px */
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+/* dt element styling */
+dt {
+  font-weight: 500;
+}
